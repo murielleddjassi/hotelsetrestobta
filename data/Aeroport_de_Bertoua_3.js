@@ -1,0 +1,1 @@
+var json_Aeroport_de_Bertoua_3 = {"type":"FeatureCollection","name":"Aeroport_de_Bertoua_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"0","Nom":"Base aerienne"},"geometry":{"type":"Point","coordinates":[13.725325909750463,4.552053367637001]}}]}
